@@ -1,8 +1,6 @@
-## Olá! Seja bem vindo.
-| Me chamo João Ferreira, sou formado em Recursos Humanos.
-| Com meus conhecimentos, busco integrar RH e tecnologia da melhor forma possível.
-| Já trabalhei com Automações em Python (Pandas, Openpy e Flet)
-| Obrigado pela sua atenção! Até a próxima. 👋
+## João Ferreira
+### Aspiring Tech Recruiter | Power BI | Python | Pandas
+Formado em RH com foco em Análise de Dados e Indicadores de RH.
 
 
 <!--
