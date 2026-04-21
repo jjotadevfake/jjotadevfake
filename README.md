@@ -1,5 +1,9 @@
-## Olá 👋
-aaaaaaaaa
+## Olá! Seja bem vindo.
+| Me chamo João Ferreira, sou formado em Recursos Humanos.
+| Com meus conhecimentos, busco integrar RH e tecnologia da melhor forma possível.
+| Já trabalhei com Automações em Python (Pandas, Openpy e Flet)
+| Obrigado pela sua atenção! Até a próxima. 👋
+
 
 <!--
 **jjotadevfake/jjotadevfake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
