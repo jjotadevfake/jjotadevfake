@@ -2,6 +2,8 @@
 ### Aspiring Tech Recruiter | Power BI | Python | Pandas
 Formado em RH com foco em Análise de Dados e Indicadores de RH.
 
+[Linkedin](www.linkedin.com/in/joão-ferreira-b36567207)
+
 
 <!--
 **jjotadevfake/jjotadevfake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
