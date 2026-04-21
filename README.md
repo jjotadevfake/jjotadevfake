@@ -9,7 +9,7 @@ Tenho interesse em unir tecnologia e pessoas, utilizando dados para melhorar pro
 ---
 
 ### 🔗 Conecte-se comigo
-[LinkedIn]([https://www.linkedin.com/in/joao-ferreira-b36567207/](https://www.linkedin.com/in/jo%C3%A3o-ferreira-b36567207))
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ferreira-b36567207)
 
 <!--
 **jjotadevfake/jjotadevfake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
