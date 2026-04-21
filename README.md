@@ -1,6 +1,6 @@
 ## 👋 João Ferreira
 
-### 💼 Tech Recruiter em formação | 📊 Power BI | 🐍 Python | 🧮 Pandas
+### 💼 Inspiring Tech Recruiter | 📊 Power BI | 🐍 Python | 🧮 Pandas
 
 Sou formado em Recursos Humanos, com foco em **Análise de Dados aplicada ao RH** e construção de **indicadores estratégicos**.
 
