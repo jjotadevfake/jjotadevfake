@@ -1,14 +1,15 @@
 ## 👋 João Ferreira
 
-### 💼 Inspiring Tech Recruiter | 📊 Power BI | 🐍 Python | 🧮 Pandas
+### HR Generalist | Inspiring Tech Recruiter | Python | Pandas
 
-Sou formado em Recursos Humanos, com foco em **Análise de Dados aplicada ao RH** e construção de **indicadores estratégicos**.
+Focus in **Data Analyst Applied to HR** and building **strategic indicators**.
 
-Tenho interesse em unir tecnologia e pessoas, utilizando dados para melhorar processos de recrutamento, tomada de decisão e performance organizacional.
+> “High technology without highly skilled personnel is ineffective, and the greater the influence of technology, the more important the human factor that controls it becomes.”  
+> — Stephen Covey
 
 ---
 
-### 🔗 Conecte-se comigo
+### 🔗 Connect with me
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ferreira-b36567207)
 
 <!--
