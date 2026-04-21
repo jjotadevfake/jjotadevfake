@@ -1,9 +1,15 @@
-## João Ferreira
-### Aspiring Tech Recruiter | Power BI | Python | Pandas
-Formado em RH com foco em Análise de Dados e Indicadores de RH.
+## 👋 João Ferreira
 
-[Linkedin](www.linkedin.com/in/joão-ferreira-b36567207)
+### 💼 Tech Recruiter em formação | 📊 Power BI | 🐍 Python | 🧮 Pandas
 
+Sou formado em Recursos Humanos, com foco em **Análise de Dados aplicada ao RH** e construção de **indicadores estratégicos**.
+
+Tenho interesse em unir tecnologia e pessoas, utilizando dados para melhorar processos de recrutamento, tomada de decisão e performance organizacional.
+
+---
+
+### 🔗 Conecte-se comigo
+[LinkedIn](https://www.linkedin.com/in/joao-ferreira-b36567207/)
 
 <!--
 **jjotadevfake/jjotadevfake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
